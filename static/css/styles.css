@@ -20,6 +20,10 @@ body {
     margin: 20px auto 100px auto; /* For sticky footer. */
 }
 
+small {
+    font-size: 14px;
+}
+
 /* Site header. */
 
 .sitebanner {
@@ -240,6 +244,6 @@ footer {
     bottom: 0;
     color: grey;
     font-size: .7em;
-    height: 30px;
+    height: 40px;
     position: absolute;
 }
